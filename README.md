@@ -1,4 +1,4 @@
-# CSR Mass Generation CLI
+# CSR Generation CLI Tool
 
 CLI tool to generate CSRs for a domain with specifications from a YAML file or arguments.
 
