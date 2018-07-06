@@ -1,0 +1,13 @@
+*.pyc
+env/
+dist/
+build/
+*.egg-info/
+*.csr
+*.key
+*.yaml
+.ipynb_checkpoints/
+*.swp
+.tox/
+.coverage
+.pytest_cache/
