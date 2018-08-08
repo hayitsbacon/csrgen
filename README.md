@@ -14,7 +14,7 @@ pip install .
 
 To use it:
 ```
-    $ csrgen-cli --help
+    $ csrgen --help
     Usage: csrgen [OPTIONS] [DOMAIN]
 
   CLI tool to generate CSRs for a domain with specifications from a YAML
